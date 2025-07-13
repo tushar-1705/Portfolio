@@ -6,26 +6,26 @@ const projects = [
     title: "Expense Tracker",
     tech: "React JS, CSS, JavaScript",
     desc: "A responsive and interactive web app built with React to manage personal finances. Users can add, delete, and track income and expenses.",
-    link: "#",
+    link: "https://github.com/tushar-1705/Expense-Tracker",
   },
   {
     title: "WorldVerse",
     tech: "React JS, CSS",
     desc: "A React-based web app that displays basic information about countries such as population, flag, capital, region, and more.",
-    link: "#",
+    link: "https://github.com/tushar-1705/CountryInfo",
   },
   {
     title: "Weather App",
     tech: "HTML, CSS, JavaScript",
     desc: "A clean and responsive web application built with HTML, CSS, and JavaScript to display real-time weather information for any city.",
-    link: "#",
+    link: "https://github.com/tushar-1705/JS_Projects/tree/master/Wheather%20App",
   },
-  {
-    title: "Youtube Clone",
-    tech: "HTML, CSS, JavaScript",
-    desc: "A front-end clone of the YouTube homepage built with HTML, CSS, and JavaScript. Features a responsive layout with video thumbnails, navigation bar, sidebar, and interactive hover effects, mimicking the original YouTube UI.",
-    link: "#",
-  },
+  // {
+  //   title: "Youtube Clone",
+  //   tech: "HTML, CSS, JavaScript",
+  //   desc: "A front-end clone of the YouTube homepage built with HTML, CSS, and JavaScript. Features a responsive layout with video thumbnails, navigation bar, sidebar, and interactive hover effects, mimicking the original YouTube UI.",
+  //   link: "#",
+  // },
 ];
 
 const Projects = () => {
